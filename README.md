@@ -18,7 +18,7 @@ Focusing on the intersection of **Business Logic** and **Data Analytics**. I enj
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [www.linkedin.com/in/al-sayed-nasser-2110292a5]
-- **Telegram:** @[t.me/iSaYed_NaSer]
+- **Telegram:** @[http://t.me/iSaYed_NaSer]
 
 ---
 *"The goal is to turn data into information, and information into insight."*
