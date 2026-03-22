@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Al Sayed Naser 👋
 
-<!--
-**ASN-Analytics/ASN-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Business Information Systems Senior Student
+Focusing on the intersection of **Business Logic** and **Data Analytics**. I enjoy turning complex data into actionable business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently focused on:
+- 🎓 **Senior Year Preparation:** Researching and brainstorming my Graduation Project in **FinTech** and **System Analysis**.
+- 📈 **Business Operations:** Exploring E-commerce systems and digital marketing strategies.
+- 🐍 **Skill Building:** Mastering **SQL** and **Python** for data-driven decision making.
+- 📑 **Analysis:** Learning how to design efficient **Database Systems** and **Business Workflows**.
+
+### 🛠️ Tech Stack & Tools I'm Learning:
+- **Data:** SQL, Excel (Advanced)
+- **Business:** Business Analysis, Project Management (Agile)
+- **Visualization:** Power BI (Current Learning Path)
+
+### 📫 Let's Connect:
+- **LinkedIn:** [www.linkedin.com/in/al-sayed-nasser-2110292a5]
+- **Telegram:** @[iSaYed_NaSer]
+
+---
+*"The goal is to turn data into information, and information into insight."*
